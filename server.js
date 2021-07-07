@@ -10,3 +10,5 @@ server.use('/foo', (req, res) => {
 	return res.json({"foo": "bar"})
 })
 server.start()
+
+//done
